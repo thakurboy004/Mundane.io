@@ -26,7 +26,7 @@ The setInterval() function is commonly used for tasks that require periodic upda
 
 ## TODOs list using JavaScript
 <hr>
-<img src="../Basic-JavaScript-Projrects/Screenshot from 2023-04-30 21-50-27.png">
+<img src="https://github.com/thakurboy004/Basic-JavaScript-Projrects/blob/main/Screenshot%20from%202023-04-30%2021-50-27.png">
 
 ### Main functions used in this project:
 
