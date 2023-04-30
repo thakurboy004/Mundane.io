@@ -6,7 +6,7 @@ That's why here I uploaded two basic projects focused mainly on JavaScript along
 
 ## Real-time Clock using JavaScript
 <hr>
-<img src="../Basic-JavaScript-Projrects/Screenshot from 2023-04-30 21-26-47.png">
+<img src="https://github.com/thakurboy004/Basic-JavaScript-Projrects/blob/main/Screenshot%20from%202023-04-30%2021-26-47.png">
 <hr>
 
 ### Main functions used in this Project:
